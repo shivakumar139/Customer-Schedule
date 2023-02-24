@@ -1,0 +1,33 @@
+.container{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.date{
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    border-radius: 6px;
+    font-size: 16px;
+    border-color: gray;
+}
+.shadow{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.w-10{
+    width: 35rem;
+}
+.w-100{
+    width: 100%;
+}
+.p-2{
+    padding: 20px;
+}
+.ml-0{
+    margin-left: 0;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
